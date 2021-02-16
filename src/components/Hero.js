@@ -10,10 +10,10 @@ function Hero() {
             <p>Full Stack Web Developer</p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                    SIGN UP
+                    ABOUT ME
                 </Button>
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                    SIGN UP
+                    CONTACT ME
                 </Button>
             </div>
         </div>
