@@ -18,13 +18,13 @@ function Cards() {
                         src={image9}
                         text='Test test test'
                         label='test'
-                        path='/services'
+                        path='/projects'
                         />
                         <CardItem 
                         src={image2}
                         text='Test test test'
                         label='test'
-                        path='/services'
+                        path='/projects'
                         />
                     </ul>
                     <ul className='cards__items'>
@@ -32,19 +32,19 @@ function Cards() {
                         src={image3}
                         text='Test test test'
                         label='test'
-                        path='/services'
+                        path='/projects'
                         />
                         <CardItem 
                         src={image4}
                         text='Test test test'
                         label='test'
-                        path='/services'
+                        path='/projects'
                         />
                         <CardItem 
                         src={image5}
                         text='Test test test'
                         label='test'
-                        path='/services'
+                        path='/projects'
                         />
                     </ul>
                 </div>
